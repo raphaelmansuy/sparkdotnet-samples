@@ -23,8 +23,6 @@ namespace MySparkApp
             dataFrame.Show();
 
 
-            Console.Read();
-
             //Count words
             DataFrame words =
                 dataFrame
